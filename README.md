@@ -6,4 +6,4 @@
 - 🎮 Gosto de jogos MOBA e sobrevivência, filmes e livros de terror, além de assistir desenhos animados.
 - ⚡ Atualmente estou estudando React e Python
 - 🧐 Curiosidade: Programo para pagar a ração do Dante e da Yuumi. 🐈� 
-- 📫 Você pode me encontrar no email: analiviadesouza.contato@gmail.com ou no whatsapp 35 9 9756-9021.
+- 📫 Você pode me encontrar no email: analiviadesouza.contato@gmail.com
