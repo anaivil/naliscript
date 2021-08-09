@@ -1,6 +1,4 @@
 ### Olá, eu sou a Lívia! ✨👋
-#
-
  Sou estudante de Tecnologia da Informação no IFSULDEMINAS, estou no penúltimo ano e estou focando meus estudos em desenvolvimento web e com muito interesse em aprender desenvolvimento mobile.
  
  #
