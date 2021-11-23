@@ -5,8 +5,8 @@
 <img
   alt="coding"
   align="right"
-  width="290em"
-  height="350em"
+  width="325em"
+  height="500em"
   src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"
 />
 
@@ -14,19 +14,7 @@
 </p>
 
 <p align="center"><i> iOS developer student and react developer jr. </i></p>
-
-<h3> about me. </h3>
-<p> I like to play League of Legends, Dead By Daylight, and similar games. My current motivation is to feed my two cats, Dante and Yuumi. </p>
-
-<h3> languages. </h3>
-<p><i><strong>
- Javascript</strong> is my <em>"native"</em> programming language, I've been working with it since the beginning of my career, using React on the front, React Native on mobile and Node on the back. I acquired my initial knowledge through school, then I sought to improve with courses from Rocketseat and Alura.
-</i></p>
-<p><i>
- After experience with hybrid mobile development using React Native, I became very interested in the area where I sought knowledge in native iOS development with <strong>Swift</strong>. Currently I am taking courses through Alura and Udemy with teacher Eric Brito.
-</i></p>
-
-<h3> contact me. </h3>
+<div align="center">
  <a href="mailto:analiviadesouza.contato@gmail.com">
   <img src="https://img.shields.io/badge/email-%2322272D?style=for-the-badge&logo=gmail">
  </a>
@@ -43,3 +31,25 @@
   <img src="https://img.shields.io/badge/@ferrnali-%2322272D?style=for-the-badge&logo=instagram">
  </a>
 </div>
+
+<h3> about me. </h3>
+<p> I like to play League of Legends, Dead By Daylight, and similar games. My current motivation is to feed my two cats, Dante and Yuumi. </p>
+
+ 
+<h3> languages. </h3>
+<p><i><strong>
+ Javascript</strong></i> is my <em>"native"</em> programming language, I've been working with it since the beginning of my career, using React Native on mobile, React on the front and Node on the back. I acquired my initial knowledge through school, then I sought to improve with courses from Rocketseat and Alura.
+</p>
+<p>
+ After experience with hybrid mobile development using React Native, I became very interested in the area where I sought knowledge in native iOS development with <i><strong>Swift</strong></i>. Currently I am taking courses through Alura and Udemy with teacher Eric Brito.
+</p>
+
+<br>
+<br>
+
+<p><i><strong>
+ Javascript</strong> é minha linguagem de programação <em>"nativa,"</em> trabalho com ela desde o início da minha carreira, usando React Native no mobile, React no front e Node no back. Adquiri meu conhecimento inicial através da escola, depois busquei aprimoramento com cursos da Rocketseat e Alura.
+</i> </p>
+<p><i>
+ Após experiências com desenvolvimento mobile híbrido utilizando React Native, me senti muito interessada na área, onde busco conhecimento no desenvolvimento nativo iOS com <strong>Swift</strong>. Atualmente estou fazendo cursos da Alura e Udemy com professor Eric Brito.
+</i></p>
