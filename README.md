@@ -15,10 +15,10 @@
 
 <p align="center"><i> iOS developer student and react developer jr. </i></p>
 
-<h3> about me, </h3>
+<h3> about me. </h3>
 <p> I like to play League of Legends, Dead By Daylight, and similar games. My current motivation is to feed my two cats, Dante and Yuumi. </p>
 
-<h3> languages, </h3>
+<h3> languages. </h3>
 <p><i><strong>
  Javascript</strong> is my <em>"native"</em> programming language, I've been working with it since the beginning of my career, using React on the front, React Native on mobile and Node on the back. I acquired my initial knowledge through school, then I sought to improve with courses from Rocketseat and Alura.
 </i></p>
@@ -26,7 +26,7 @@
  After experience with hybrid mobile development using React Native, I became very interested in the area where I sought knowledge in native iOS development with <strong>Swift</strong>. Currently I am taking courses through Alura and Udemy with teacher Eric Brito.
 </i></p>
 
-<h3> contact me, </h3>
+<h3> contact me. </h3>
  <a href="mailto:analiviadesouza.contato@gmail.com">
   <img src="https://img.shields.io/badge/email-%2322272D?style=for-the-badge&logo=gmail">
  </a>
