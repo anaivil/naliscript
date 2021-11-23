@@ -45,7 +45,6 @@
 </p>
 
 <br>
-<br>
 
 <p><i><strong>
  Javascript</strong> é minha linguagem de programação <em>"nativa,"</em> trabalho com ela desde o início da minha carreira, usando React Native no mobile, React no front e Node no back. Adquiri meu conhecimento inicial através da escola, depois busquei aprimoramento com cursos da Rocketseat e Alura.
