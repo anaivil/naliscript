@@ -6,11 +6,11 @@
   alt="coding"
   align="right"
   width="325em"
-  height="500em"
+  height="450em"
   src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"
 />
 
-<p align="right"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+dear!;I'm+Lívia+✨;Nice+to+meet+u.&color=%23ADBBC8&size=30&font=firacode">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+dear!;I'm+Lívia+✨;Nice+to+meet+u.&color=%23ADBBC8&size=30&font=firacode&center=true">
 </p>
 
 <p align="center"><i> iOS developer student and react developer jr. </i></p>
