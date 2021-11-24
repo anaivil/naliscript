@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/email-%2322272D?style=for-the-badge&logo=gmail">
  </a>
  
- <a href="https://www.linkedin.com/in/liviacoff/">
+ <a href="https://www.linkedin.com/in/naliferreira/">
   <img src="https://img.shields.io/badge/linkedin-%2322272D?style=for-the-badge&logo=linkedin">
  </a>
  
