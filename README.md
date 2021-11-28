@@ -13,7 +13,9 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+dear!;I'm+Lívia+✨;Nice+to+meet+u.&color=%23ADBBC8&size=30&font=firacode&center=true">
 </p>
 
-<p align="center"><i> iOS developer student and react developer jr. </i></p>
+<p align="center"><i> react developer jr. and iOS developer student </i></p>
+<p align="center"><i> information technology technician at ifsuldeminas </i></p>
+
 <div align="center">
  <a href="mailto:analiviadesouza.contato@gmail.com">
   <img src="https://img.shields.io/badge/email-%2322272D?style=for-the-badge&logo=gmail">
