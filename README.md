@@ -13,7 +13,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+dear!;I'm+Lívia+✨;Nice+to+meet+u.&color=%23ADBBC8&size=30&font=firacode&center=true">
 </p>
 
-<p align="center"><i> react developer jr. and iOS developer student </i></p>
+<p align="center"><i> react developer jr. and flutter developer student </i></p>
 <p align="center"><i> information technology technician at ifsuldeminas </i></p>
 
 <div align="center">
@@ -35,15 +35,12 @@
 </div>
 
 <h3> about me. </h3>
-<p> I like to play League of Legends, Dead By Daylight, and similar games. My current motivation is to feed my two cats, Dante and Yuumi. </p>
+<p> I like to play League of Legends, Dead By Daylight, and similar games. My current motivation is my two cats, Dante and Yuumi. </p>
 
  
 <h3> languages. </h3>
 <p><i><strong>
  Javascript</strong></i> is my <em>"native"</em> programming language, I've been working with it since the beginning of my career, using React Native on mobile, React on the front and Node on the back. I acquired my initial knowledge through school, then I sought to improve with courses from Rocketseat and Alura.
-</p>
-<p>
- After experience with hybrid mobile development using React Native, I became very interested in the area where I sought knowledge in native iOS development with <i><strong>Swift</strong></i>. Currently I am taking courses through Alura and Udemy with teacher Eric Brito.
 </p>
 
 <br>
@@ -51,6 +48,3 @@
 <p><i><strong>
  Javascript</strong> é minha linguagem de programação <em>"nativa,"</em> trabalho com ela desde o início da minha carreira, usando React Native no mobile, React no front e Node no back. Adquiri meu conhecimento inicial através da escola, depois busquei aprimoramento com cursos da Rocketseat e Alura.
 </i> </p>
-<p><i>
- Após experiências com desenvolvimento mobile híbrido utilizando React Native, me senti muito interessada na área, onde busco conhecimento no desenvolvimento nativo iOS com <strong>Swift</strong>. Atualmente estou fazendo cursos da Alura e Udemy com professor Eric Brito.
-</i></p>
