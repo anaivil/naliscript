@@ -30,18 +30,23 @@
   <img src="https://img.shields.io/badge/@ferrnali-%2322272D?style=for-the-badge&logo=instagram">
  </a>
 </div>
+
+<div align="center">
+ <img width="80px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=html5">
+ <img width="80px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=css3&logoColor=blue">
+ <img width="80px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=javascript">
+</div>
                                                                                  
 <h3> sobre. </h3>
 <p>🎓 Técnica da Informação pelo IFSULDEMINAS</p>
-<p>📚 Consolidando meu conhecimento na base com Algoritmos, Estrutura e Arquitetura de Dados, Código Limpo, Orientação à Objetos, Banco de Dados e Design Patterns, utilizando sempre metodologias ágeis no processo. </p>
+<p>📚 Consolidando meu conhecimento da base com Algoritmos, Estrutura e Arquitetura de Dados, Orientação à Objetos, Banco de Dados, Código Limpo e Design Patterns, utilizando sempre metodologias ágeis no processo. </p>
 <p>👾 Faço lives na twitch estudando programação e jogando. </p>
 
 <div>
-<img width="80px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=html5">
-<img width="80px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=css3&logoColor=blue">
-<img width="80px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=javascript">
-<img width="80px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=dart&logoColor=blue">
-<img width="80px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=Flutter&logoColor=blue">
-<img width="80px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=Swift">
-<img width="94px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=PHP">
+ <h3> estudando. </h3>
+ <img width="64px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=dart&logoColor=blue">
+ <img width="64px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=Flutter&logoColor=blue">
+ <img width="64px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=Swift">
+ <img width="64px" src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=PHP">
 </div>
+
