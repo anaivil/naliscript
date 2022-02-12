@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/linkedin-%2322272D?style=for-the-badge&logo=linkedin">
  </a>
 
- <a href="https://www.instagram.com/ferrnali/">
-  <img src="https://img.shields.io/badge/@ferrnali-%2322272D?style=for-the-badge&logo=instagram">
+ <a href="https://www.instagram.com/naliscript/">
+  <img src="https://img.shields.io/badge/@naliscript-%2322272D?style=for-the-badge&logo=instagram">
  </a>
 </div>
 
