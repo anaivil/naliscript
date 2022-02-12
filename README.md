@@ -21,10 +21,6 @@
  <a href="https://www.linkedin.com/in/nalisouza/">
   <img src="https://img.shields.io/badge/linkedin-%2322272D?style=for-the-badge&logo=linkedin">
  </a>
- 
- <a href="https://api.whatsapp.com/send?phone=553597569021&text=Ol%C3%A1%2C%20L%C3%ADvia!%20Tudo%20bem%3F">
-  <img src="https://img.shields.io/badge/whatsapp-%2322272D?style=for-the-badge&logo=whatsapp">
- </a>
 
  <a href="https://www.instagram.com/ferrnali/">
   <img src="https://img.shields.io/badge/@ferrnali-%2322272D?style=for-the-badge&logo=instagram">
