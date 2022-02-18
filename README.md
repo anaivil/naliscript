@@ -36,5 +36,5 @@
  <img src="https://img.shields.io/badge/HTML-%231C2128?style=for-the-badge&logo=html5">
  <img src="https://img.shields.io/badge/CSS-%231C2128?style=for-the-badge&logo=css3&logoColor=blue">
  <img src="https://img.shields.io/badge/Kotlin-%231C2128?style=for-the-badge&logo=Kotlin">
-  <img src="https://img.shields.io/badge/CSharp-%231C2128?style=for-the-badge&logo=csharp&logoColor=mediumpurple">
+  <img src="https://img.shields.io/badge/Java-%231C2128?style=for-the-badge&logo=Java&logoColor=firebrick">
 </div>
