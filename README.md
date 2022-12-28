@@ -1,5 +1,5 @@
 <p align="right">
- <img src="https://komarev.com/ghpvc/?username=naliferreira&color=C5472E" alt="Contador de Visualizações do Perfil">
+ <img src="https://komarev.com/ghpvc/?username=liviadesouza&color=C5472E" alt="Contador de Visualizações do Perfil">
 </p>
 
 <div align="right">
@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=gmail">
  </a>
  
- <a href="https://www.linkedin.com/in/liviafs/">
+ <a href="https://www.linkedin.com/in/analiviadesouza/">
   <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=linkedin&logoColor=blue">
  </a>
 
- <a href="https://www.instagram.com/naliscript/">
+ <a href="https://www.instagram.com/livcansadita/">
   <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=instagram">
  </a>
 </div>
