@@ -17,6 +17,6 @@
 </div>
 
 <p>👩🏾‍💻 Estudo <strong>desenvolvimento</strong> e <strong>design</strong>.</p>
-<p>🎓 Estudante de desenvolvimento de jogos eletrônicos no SENAC, formação design na Alura e formada como técnica da tecnologia da informação pelo ifsuldeminas.</p>
+<p>🎓 Vestibulanda de ciência da computação e técnica da tecnologia da informação pelo ifsuldeminas.</p>
 <p>🔮 Consolidando meu conhecimento da base com Arquitetura de Dados, Orientação à Objetos, Banco de Dados, Código Limpo e Design Patterns. </p>
-<p>🍵 Sempre fui apaixonada por tecnologia, tanto códigos quanto design. </p>
+<p>🍵 Depois de Design e Programação, o café tem meu coração. </p>
