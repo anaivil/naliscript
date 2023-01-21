@@ -16,7 +16,7 @@
  </a>
 </div>
 
-<p>👩🏾‍💻 Estudo <strong>desenvolvimento</strong> e <strong>design</strong>.</p>
+<p>👩🏾‍💻 Desenvolvedora <strong>Mobile</strong> e <strong>Designer UI/UX</strong>.</p>
 <p>🎓 Vestibulanda de ciência da computação e técnica da tecnologia da informação pelo ifsuldeminas.</p>
-<p>🔮 Consolidando meu conhecimento da base com Arquitetura de Dados, Orientação à Objetos, Banco de Dados, Código Limpo e Design Patterns. </p>
-<p>🍵 Depois de Design e Programação, o café tem meu coração. </p>
+<p>🔮 Atualmente Estudando: <strong>React Native</strong>. </p>
+<p>🍵 Café Favorito: Caramel Latte Macchiato </p>
