@@ -16,7 +16,7 @@
  </a>
 </div>
 
-<p>👩🏾‍💻 <strong>Designer UI/UX</strong>.</p>
-<p>🎓 Vestibulanda de ciência da computação e técnica da tecnologia da informação pelo ifsuldeminas.</p>
-<p>🔮 Atualmente Estudando: <strong>UI/UX</strong> e <strong>desenvolvimento mobile</strong>. </p>
-<p>🍵 Café Favorito: Caramel Latte Macchiato </p>
+<p>👩🏾‍💻 Designer UI/UX
+<p>🎓 Vestibulanda de ciência da computação e técnica da tecnologia da informação pelo ifsuldeminas.
+<p>🔮 Atualmente Estudando: <strong>UI/UX</strong> e <strong>desenvolvimento mobile</strong>.
+<p>🍵 Café Favorito: Caramel Latte Macchiato
