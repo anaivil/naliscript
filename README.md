@@ -1,3 +1,21 @@
+
+## Hey, I'm Lívia! Welcome to my profile.
+
+
+<img align="right" alt="Lívia-pic" height="200" width="200" style="border-radius:50px;" src="https://wallpapers-clan.com/wp-content/uploads/2022/05/cute-pfp-04.jpg">
+
+<div align="left">
+ 
+-  👩🏾‍💻 **Computer Science Student [1/8]**
+-  🎓 Information Technology Technique [3/3]
+-  📍 **Studying Mobile development:**
+    - Flutter
+    - Swift
+-  🔍 Looking for an opportunity as a mobile developer!
+-  🍵 My Favorite Coffee: Caramel Latte Macchiato
+
+</div>
+
 <p align="right">
  <img src="https://komarev.com/ghpvc/?username=liviadesouza&color=C5472E" alt="Contador de Visualizações do Perfil">
 </p>
@@ -10,13 +28,4 @@
  <a href="https://www.linkedin.com/in/analiviadesouza/">
   <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=linkedin&logoColor=blue">
  </a>
-
- <a href="https://www.instagram.com/livcansadita/">
-  <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=instagram">
- </a>
 </div>
-
-<p>👩🏾‍💻 Designer UI/UX
-<p>🎓 Vestibulanda de ciência da computação e técnica da tecnologia da informação pelo ifsuldeminas.
-<p>🔮 Atualmente Estudando: <strong>UI/UX</strong> e <strong>desenvolvimento mobile</strong>.
-<p>🍵 Café Favorito: Caramel Latte Macchiato
