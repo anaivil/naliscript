@@ -11,7 +11,6 @@
 -  📍 **Studying Mobile development:**
     - Flutter
     - Swift
--  🔍 Looking for an opportunity as a mobile developer!
 -  🍵 My Favorite Coffee: Caramel Latte Macchiato
 
 </div>
