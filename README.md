@@ -8,9 +8,9 @@
  
 -  👩🏾‍💻 **Computer Science Student [1/8]**
 -  🎓 Information Technology Technique [3/3]
--  📍 **Studying Mobile development:**
+-  📍 **Learning the Languages:**
     - Flutter
-    - Swift
+    - Javascript
 -  🍵 My Favorite Coffee: Caramel Latte Macchiato
 
 </div>
