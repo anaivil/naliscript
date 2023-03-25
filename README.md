@@ -8,7 +8,7 @@
  
 -  👩🏾‍💻 **Computer Science Student [1/8]**
 -  🎓 Information Technology Technique [3/3]
--  📍 **Learning the Languages:**
+-  🌱 **Learning the Languages:**
     - Flutter
     - Javascript
 -  🍵 My Favorite Coffee: Caramel Latte Macchiato
