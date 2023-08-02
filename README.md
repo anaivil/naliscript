@@ -6,11 +6,11 @@
 
 <div align="left">
  
--  👩🏾‍💻 **Computer Science Student [1/8]**
+-  👩🏾‍💻 **Data Science Student [0/8]**
 -  🎓 Information Technology Technique [3/3]
 -  🌱 **Learning the Languages:**
-    - Flutter
-    - Javascript
+    - Python
+    - VBA
 -  🍵 My Favorite Coffee: Caramel Latte Macchiato
 
 </div>
