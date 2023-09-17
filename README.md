@@ -6,7 +6,7 @@
 
 <div align="left">
  
--  👩🏾‍💻 **Student [0/4]**
+-  👩🏾‍💻 
 -  🎓 Information Technology Technique
 -  🌱 **Learning the Languages:**
     - Python
