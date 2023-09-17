@@ -6,8 +6,8 @@
 
 <div align="left">
  
--  👩🏾‍💻 **Data Science Student [0/8]**
--  🎓 Information Technology Technique [3/3]
+-  👩🏾‍💻 ** Student [0/4]**
+-  🎓 Information Technology Technique
 -  🌱 **Learning the Languages:**
     - Python
     - VBA
