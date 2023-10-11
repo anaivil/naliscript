@@ -6,24 +6,18 @@
 
 <div align="left">
  
--  👩🏾‍💻 
+-  👩🏾‍💻 UI/UX Designer and Marketing Analyst
 -  🎓 Information Technology Technique
--  🌱 **Learning the Languages:**
-    - Python
+-  🌱 **Learning:**
     - VBA
 -  🍵 My Favorite Coffee: Caramel Latte Macchiato
 
 </div>
 
-<p align="right">
- <img src="https://komarev.com/ghpvc/?username=liviadesouza&color=C5472E" alt="Contador de Visualizações do Perfil">
-</p>
-
 <div align="right">
  <a href="mailto:analiviadesouza.contato@gmail.com">
   <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=gmail">
  </a>
- 
  <a href="https://www.linkedin.com/in/analiviadesouza/">
   <img src="https://img.shields.io/badge/-%2322272D?style=for-the-badge&logo=linkedin&logoColor=blue">
  </a>
