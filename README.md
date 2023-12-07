@@ -16,10 +16,11 @@
 
 <div align="left">
  
--  👩🏾‍💻 UI/UX Designer and Marketing Analyst
--  🎓 Information Technology Technique
--  🌱 **Learning:**
-    - VBA
+-  👩🏾‍💻 Back-End Student
+-  🎓 Software Engineering
+-  👩🏾‍🎓 Information Technology Technique
+-  🌱 **Currently Learning:**
+    - C#
 -  🍵 My Favorite Coffee: Caramel Latte Macchiato
 
 </div>
