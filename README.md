@@ -16,11 +16,11 @@
 
 <div align="left">
  
--  👩🏾‍💻 Back-End Student
--  🎓 Software Engineering
+-  👩🏾‍💻 Financial Assistant at Sicoob
+-  🎓 Accounting 2/8
 -  👩🏾‍🎓 Information Technology Technique
 -  🌱 **Currently Learning:**
-    - C#
+    - Python, Excel and Power BI
 -  🍵 My Favorite Coffee: Caramel Latte Macchiato
 
 </div>
